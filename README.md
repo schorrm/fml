@@ -1,2 +1,2 @@
 # sml
-Standard Meme Library
+Standard Meme Library for the [meme project](github.com/schorrm/meme)
