@@ -1,0 +1,9 @@
+{
+    "namedFields": {
+        "leftMan"  : [ 30, 150, 180, 235],
+        "rightMan" : [375, 170, 525, 270],
+        "centerMan": [240,  80, 370, 165]
+    },
+    "defaultOrder": ["leftMan", "centerMan", "rightMan", "bottom"]
+
+}
