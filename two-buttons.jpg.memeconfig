@@ -1,0 +1,8 @@
+{
+    "namedFields": {
+        "button1": [  60,  90,    265, 190],
+        "button2": [ 265,  55,    435, 135],
+        "bottom" : ["0%", 710, "100%", 870]
+    },
+    "defaultOrder": ["button1", "button2", "bottom"]
+}

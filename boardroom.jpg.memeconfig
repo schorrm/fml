@@ -1,0 +1,9 @@
+{
+    "namedFields": {
+        "prompt"     : [150,   5, 455,  55],
+        "suggestion1": [ 25, 245, 125, 275],
+        "suggestion2": [160, 255, 245, 283],
+        "dumbass"    : [300, 255, 445, 305]
+    },
+    "defaultOrder": ["prompt", "suggestion1", "suggestion2", "dumbass"]
+}
