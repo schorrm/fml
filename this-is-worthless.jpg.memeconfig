@@ -1,0 +1,7 @@
+{
+    "namedFields": {
+        "paper": ["25%", "20%", "75%", "40%"]
+    },
+    "defaultOrder": ["paper", "bottom"],
+}
+
