@@ -1,0 +1,7 @@
+{
+    "namedFields": {
+        "question": [  70, 150,  710, 500],
+        "pidgeon" : [1100, 300, 1550, 585]
+    },
+    "defaultOrder": ["question", "pidgeon", "bottom"]
+}
