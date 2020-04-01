@@ -1,7 +1,7 @@
 {
     "namedFields": {
         "sign" : [40, 120, 390, 380],
-		"minisign" : [240, 608, 340, 683]
+        "minisign" : [240, 608, 340, 683]
     },
     "defaultOrder": ["sign", "minisign", "top"]
 }
