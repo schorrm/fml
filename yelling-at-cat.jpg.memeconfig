@@ -1,0 +1,7 @@
+{
+    "namedFields": {
+        "lbottom": [ "0%", 235,  "50%", "100%"],
+        "rbottom": ["50%", 235, "100%", "100%"]
+    },
+    "defaultOrder": ["lbottom", "rbottom"]
+}

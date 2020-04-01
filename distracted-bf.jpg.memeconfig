@@ -1,0 +1,8 @@
+{
+    "namedFields": {
+        "boyfriend" : [575, 335,  875, 535],
+        "girlfriend": [880, 435, 1140, 605],
+        "otherWoman": [175, 500,  500, 700]
+    },
+    "defaultOrder": ["boyfriend", "girlfriend", "otherWoman"]
+}
