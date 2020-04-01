@@ -1,0 +1,8 @@
+{
+    "namedFields": {
+        "robin" : [ "0%", 0,  "50%", 70],
+        "batman": ["50%", 0, "100%", 70]
+    },
+    "defaultOrder": ["robin", "batman"]
+}
+
