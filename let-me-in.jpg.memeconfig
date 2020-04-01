@@ -1,0 +1,13 @@
+{
+    "namedFields": {
+        "tface" : [490, 140,  780, 320],
+        "tfence": [ 60,  80,  400, 360],
+        "bface" : [590, 650, 1010, 945],
+        "bfence":  [70, 630,  460, 990]
+    },
+    "defaultOrder": ["tface", "tfence", "bface", "bfence"],
+    "format_data": {
+        "font": { "outline_size": 5 },
+        "color": { "foreground": "white", "outline": "black" }
+    }
+}

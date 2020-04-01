@@ -1,0 +1,10 @@
+{
+    "namedFields": {
+        "title": [75, 820, 1760, 955]
+    },
+    "defaultOrder": ["title"],
+    "format_data": {
+        "font": {"font_face": "arial" },
+        "color": { "foreground": "white" }
+    }
+}
