@@ -1,0 +1,7 @@
+{
+    "namedFields": {
+        "problem": [690, 270, 1060,  520],
+        "tape"   : [500, 710, 1070, 1110]
+    },
+    "defaultOrder": ["l1", "problem", "tape"]
+}

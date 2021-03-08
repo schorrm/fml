@@ -1,0 +1,11 @@
+{
+    "namedFields": {
+        "panel1": ["0%",  "0%", "100%",  "50%"],
+        "panel2": ["0%", "50%", "100%", "100%"]
+    },
+    "defaultOrder": ["panel1", "panel2"],
+    "format_data": {
+        "alignment": {"valign": "bottom"}
+    }
+}
+

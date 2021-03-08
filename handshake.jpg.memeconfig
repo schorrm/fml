@@ -1,0 +1,8 @@
+{
+    "namedFields": {
+        "black": [ 75, 270, 380, 480],
+        "white": [525, 260, 795, 470],
+        "clasp": [190,  35, 500, 245]
+    },
+    "defaultOrder": ["black", "white", "clasp", "top", "bottom"]
+}

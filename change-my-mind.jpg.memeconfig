@@ -1,0 +1,7 @@
+{
+    "namedFields": {
+        "poster": [200, 225, 425, 300]
+    },
+    "defaultOrder": ["poster", "top", "bottom"]
+}
+
